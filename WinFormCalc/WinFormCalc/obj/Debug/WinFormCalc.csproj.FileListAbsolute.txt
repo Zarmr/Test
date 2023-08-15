@@ -1,0 +1,10 @@
+c:\users\radim hora\source\repos\WinFormCalc\WinFormCalc\bin\Debug\WinFormCalc.exe.config
+c:\users\radim hora\source\repos\WinFormCalc\WinFormCalc\bin\Debug\WinFormCalc.exe
+c:\users\radim hora\source\repos\WinFormCalc\WinFormCalc\bin\Debug\WinFormCalc.pdb
+c:\users\radim hora\source\repos\WinFormCalc\WinFormCalc\obj\Debug\WinFormCalc.csprojAssemblyReference.cache
+c:\users\radim hora\source\repos\WinFormCalc\WinFormCalc\obj\Debug\WinFormCalc.CalculatorForm.resources
+c:\users\radim hora\source\repos\WinFormCalc\WinFormCalc\obj\Debug\WinFormCalc.Properties.Resources.resources
+c:\users\radim hora\source\repos\WinFormCalc\WinFormCalc\obj\Debug\WinFormCalc.csproj.GenerateResource.cache
+c:\users\radim hora\source\repos\WinFormCalc\WinFormCalc\obj\Debug\WinFormCalc.csproj.CoreCompileInputs.cache
+c:\users\radim hora\source\repos\WinFormCalc\WinFormCalc\obj\Debug\WinFormCalc.exe
+c:\users\radim hora\source\repos\WinFormCalc\WinFormCalc\obj\Debug\WinFormCalc.pdb
